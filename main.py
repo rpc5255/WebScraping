@@ -1,6 +1,9 @@
+import basketball_reference_scraper
+
+
 def main():
-    print("hello")
+    print(basketball_reference_scraper.get_team_stats_per_game())
 
 
-if __name__ == main:
+if __name__ == "__main__":
     main()
