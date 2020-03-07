@@ -1,5 +1,5 @@
 import pymongo
-import basketball_reference_scraper
+import season_stats_scraper
 import team_schedule_scraper
 
 
